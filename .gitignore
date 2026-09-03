@@ -2,3 +2,4 @@ expenses.db
 uv.lock
 .venv
 __pycache__
+.python-version
